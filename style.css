@@ -1,0 +1,16 @@
+h1{
+    color: pink ; font-size: 5rem; background-color: aqua; text-align: center; border: 5px solid black ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.intro{
+
+    font-size: 1rem; background-color: bisque;
+}
+
+p{ 
+    background-color: aqua;
+}
+.bold {
+    color: blue;
+}
